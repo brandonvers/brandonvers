@@ -2,7 +2,7 @@
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you buddy.</h1>
 
-<p>Welcome to my page! </br> I'm <b>Brendon</b>, web and app developer from <b>Hungary</b> 
+<p>Welcome to my page! </br> I'm <b>Brandon</b>, web and app developer from <b>Hungary</b> 
 <img
   src="https://flagcdn.com/16x12/hu.png"
   srcset="https://flagcdn.com/32x24/hu.png 2x,
