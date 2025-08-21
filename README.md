@@ -47,7 +47,7 @@
   <img width="7" />
   <img src="https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white&style=for-the-badge" height="35" alt="swift logo"  />
   <img width="7" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="35" alt="python logo"  />
+  <img src="https://img.shields.io/badge/C-00599C?logo=C&logoColor=white&style=for-the-badge" height="35" alt="python logo"  />
 </div>
 
 <div align="center">
